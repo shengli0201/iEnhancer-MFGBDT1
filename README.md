@@ -1,2 +1,2 @@
 
-Yunyun Liang , Shengli Zhang , Huijuan Qiao , Yingying Yao.  iPromoter-ET: identifying promoters and their strength by extremely randomized trees-based feature selection 2021.
+Yunyun Liang, Shengli Zhang, Huijuan Qiao, Yinan Cheng.  iEnhancer-MFGBDT: identifying enhancers and their strength by fusing multiple features and gradient boosting decision tree. 2021.
